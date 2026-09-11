@@ -1,0 +1,15 @@
+{
+  "name": "shadow-vector-8125",
+  "version": "0.1.0",
+  "generator": "PushForge Engine",
+  "capabilities": [
+    "ideate",
+    "compose",
+    "commit"
+  ],
+  "manifest": {
+    "entry": "src/index.ts",
+    "seed": 1585,
+    "createdAt": "2026-09-11T14:52:02.689Z"
+  }
+}
